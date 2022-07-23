@@ -1,0 +1,38 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "C:/Users/tanim/Documents/PlatformIO/Projects/220723-135114-hello-world/include",
+                "C:/Users/tanim/Documents/PlatformIO/Projects/220723-135114-hello-world/src",
+                "C:/Users/tanim/Documents/PlatformIO/Projects/220723-135114-hello-world/.pio/libdeps/native/Unity/src",
+                "C:/Users/tanim/Documents/PlatformIO/Projects/220723-135114-hello-world/lib/cbuffer",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "C:/Users/tanim/Documents/PlatformIO/Projects/220723-135114-hello-world/include",
+                    "C:/Users/tanim/Documents/PlatformIO/Projects/220723-135114-hello-world/src",
+                    "C:/Users/tanim/Documents/PlatformIO/Projects/220723-135114-hello-world/.pio/libdeps/native/Unity/src",
+                    "C:/Users/tanim/Documents/PlatformIO/Projects/220723-135114-hello-world/lib/cbuffer",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60103",
+                ""
+            ],
+            "compilerPath": "C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/gcc.exe",
+            "compilerArgs": [
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
